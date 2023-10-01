@@ -19,6 +19,26 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/38970/OneDrive/Documents/FINKI/6Semestar2023/IS/ISProject/CampusStay/CampusStay.Web/CampusStay.Web/Views/DormRooms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ybVJvb21zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38970/OneDrive/Documents/FINKI/6Semestar2023/IS/ISProject/CampusStay/CampusStay.Web/CampusStay.Web/Views/DormRooms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ybVJvb21zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38970/OneDrive/Documents/FINKI/6Semestar2023/IS/ISProject/CampusStay/CampusStay.Web/CampusStay.Web/Views/DormRooms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ybVJvb21zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38970/OneDrive/Documents/FINKI/6Semestar2023/IS/ISProject/CampusStay/CampusStay.Web/CampusStay.Web/Views/DormRooms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ybVJvb21zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/38970/OneDrive/Documents/FINKI/6Semestar2023/IS/ISProject/CampusStay/CampusStay.Web/CampusStay.Web/Views/DormRooms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9ybVJvb21zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/38970/OneDrive/Documents/FINKI/6Semestar2023/IS/ISProject/CampusStay/CampusStay.Web/CampusStay.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
